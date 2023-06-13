@@ -1,4 +1,4 @@
 ---
-title: "Blog"
-date: 2019-02-24
+title: "Let's talk about"
+date: 1990-09-02
 ---

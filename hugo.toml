@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 theme = "hugo-winston-theme"
 themesDir = "themes"
-title = "Hugo Winston Theme"
+title = "Great story of the day"
 paginate = 3
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
@@ -15,7 +15,7 @@ pygmentsUseClasses = true
 
 [params]
   google_analytics_id = ""
-  twitter_handle = "@zerostaticio"
+  twitter_handle = "@osehyum"
   showAuthorOnHomepage = true
   showAuthorOnPosts = false
   showIntroContentOnHomepage = true
@@ -25,12 +25,12 @@ pygmentsUseClasses = true
   sortPostsByDateOldestFirst = false
   addDot = true
   addFrame = true
-  highlightColor = '#7b16ff'
+  highlightColor = "#FF43A4"
   baseColor = "#ffffff"
   baseOffsetColor = "#eaeaea"
   headingColor = "#1c1b1d"
   textColor = "#4e5157"
-  dotColor = "#7b16ff"
+  dotColor = "#43FF9E"
   enableGoogleFonts = true 
   googleFontsUrl = "https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap"
   fontFamilyHeading = "Poppins"
@@ -60,7 +60,7 @@ pygmentsUseClasses = true
     name = "About"
     identifier = "about"
     weight = 3
-    url = "/About/"
+    url = "/about/"
   [[menu.main]]
     name = "Tags"
     identifier = "tags"
