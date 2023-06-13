@@ -1,6 +1,16 @@
 ---
-title: You don't start out writing good stuff
-description: The hallway smelt of boiled cabbage and old rag mats.
+title: Divinity of Everyday 
+description: 일상의 신성함에 대하여.
 ---
 
-The hallway smelt of boiled cabbage and old rag mats. At one end of it a coloured poster, too large for indoor display, had been tacked to the wall. It depicted simply an enormous face, more than a metre wide: the face of a man of about forty-five, with a heavy black moustache and ruggedly handsome features. Winston made for the stairs. It was no use trying the lift. 
+### 일상의 신성함에 대해 탐닉합니다.
+> 내 안에 잠재된 위대한 유산을 찾아나서려 합니다.
+> 제게만 있는 특별함이 아닌 우리 모두가 가진 심연의 신비로움을요.
+> 우리는 모두 특별하고, 마법 같은 존재입니다.
+
+
+### 모든건 이미 준비됐습니다. 가장 아끼는 융의 문장으로 그대를 반깁니다 🤗
+
+> Your vision will become clear only when you can look into your own heart.
+> Who looks outside, dreams;
+> ###  Who looks inside, awakes.
