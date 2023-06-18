@@ -7,7 +7,7 @@
   --highlight-color: #145DA0;
   --heading-color: #1c1b1d;
   --text-color: #4e5157;
-  --dot-color: #FFA07A; }
+  --dot-color: #69002E; }
 
 body, html {
   margin: 0;
