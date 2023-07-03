@@ -3,10 +3,13 @@ title: Let every day just of itself occur
 description: 일상의 신성함을 탐구합니다
 ---
 
+![Festival](/images/festival.jpg "Festival")
+
 ### 삶은 스스로 축제가 될지니 🎉
-> 모두가 가지고 태어난 심연의 신비로움을 찾아 나서려 합니다.
+> 모두에게 있는 심연의 신비로움을 찾으려 합니다.
 > 우리는 모두 특별하고, 마법 같은 존재입니다.
 > 고로 우리의 삶 역시 그렇습니다.
+
 
 <br/>
 
