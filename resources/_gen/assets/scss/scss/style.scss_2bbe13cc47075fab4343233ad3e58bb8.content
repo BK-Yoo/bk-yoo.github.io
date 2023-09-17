@@ -4,8 +4,8 @@
   --font-family-monospace: monospace;
   --base-color: #ffffff;
   --base-offset-color: #eaeaea;
-  --highlight-color: #79A7D3;
-  --heading-color: #6883BC;
+  --highlight-color: #123657;
+  --heading-color: #212F3D;
   --text-color: #4e5157;
   --dot-color: #8A307F; }
 
