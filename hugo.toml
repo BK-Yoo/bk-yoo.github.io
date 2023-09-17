@@ -1,5 +1,5 @@
 baseURL = "/"
-languageCode = "en-us"
+languageCode = "ko-kr"
 theme = "hugo-winston-theme"
 themesDir = "themes"
 title = "Thought of Everyday"
@@ -25,12 +25,12 @@ pygmentsUseClasses = true
   sortPostsByDateOldestFirst = false
   addDot = true
   addFrame = true
-  highlightColor = "#145DA0"
+  highlightColor = "#79A7D3"
   baseColor = "#ffffff"
   baseOffsetColor = "#eaeaea"
-  headingColor = "#1c1b1d"
+  headingColor = "#6883BC"
   textColor = "#4e5157"
-  dotColor = "#69002E"
+  dotColor = "#8A307F"
   enableGoogleFonts = true 
   googleFontsUrl = "https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap"
   fontFamilyHeading = "Poppins"

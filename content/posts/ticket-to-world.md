@@ -3,7 +3,7 @@ title: "Ticket to The World"
 date: 2023-06-13T23:20:07+09:00
 description: '하루가 시작될 때, 내게 다시 기회가 주어졌음에, 안녕히 긴 밤을 보냈음에 감사하며 창밖의 하늘을 본다. 외국의 인사말들은 아침, 점심, 저녁 시간대의 안녕을 묻는다면, 한국의 인사말은 그 사람이 날 만나기 전까지 모든 시간에 대한 안녕을 묻는다. 안녕하세요는 생각보다 따뜻한 말이다.
 '
-image: images/posts/ttw/welcome.jpg
+image: images/posts/ticket_to_the_world.jpg
 tags:
   - gratitude
 draft: false
